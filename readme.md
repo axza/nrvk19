@@ -14,7 +14,7 @@
 - `Abstandsmessungen von Überholmanövern` [Radmesser (Tagesspiegel)](https://interaktiv.tagesspiegel.de/radmesser/)
 - `Hintergrundkarten` 
   - Berlin [OSM](https://www.openstreetmap.org)
-  - Hamburg [Urban Data Plattform Hamburg](http://www.urbandataplatform.hamburg/)
+  - Hamburg [Urban Data Platform Hamburg](http://www.urbandataplatform.hamburg/)
 
 ___
 
@@ -23,6 +23,6 @@ Das Team von VISION ZERO setzt sich aus Mitarbeitern folgender Einrichtungen und
 | Name | Firma/Einrichtung  |
 |:-|-:|
 | Moritz Schneider | [orangeedge](https://www.orangeedge.de/) |
-| Michael Fischer| [Urban Data Plattform Hamburg](http://www.urbandataplatform.hamburg/) |
+| Michael Fischer| [Urban Data Platform Hamburg](http://www.urbandataplatform.hamburg/) |
 |Corinna Steinmeyer<br> Nicole Herrmann <br> Marc Kleemann | [ISB AG](https://www.isb-ag.de/) |
 | Axel Lorenzen-Zabel | [Professur für Geodäsie und Geoinformatik](https://www.auf.uni-rostock.de/professuren/a-g/geodaesie-und-geoinformatik/) <br> [Universität Rostock](https://www.uni-rostock.de)|
