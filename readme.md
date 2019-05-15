@@ -19,11 +19,10 @@
 ___
 
 Das Team von VISION ZERO setzt sich aus Mitarbeitern folgender Einrichtungen und Unternehmen zusammen:
-- [orangeedge](https://www.orangeedge.de/)
-  - Moritz Schneider
-- [Urban Data Plattform Hamburg](http://www.urbandataplatform.hamburg/)
-  - Michael Fischer
-- [ISB AG](https://www.isb-ag.de/)
-  - Corinna Steinmeyer, Nicole Herrmann, Marc Kleemann
-- [Universität Rostock](https://www.uni-rostock.de/) | [Professur für Geodäsie und Geoinformatik](https://www.auf.uni-rostock.de/professuren/a-g/geodaesie-und-geoinformatik/)
-    - Axel Lorenzen-Zabel
+
+| Name | Firma/Einrichtung  |
+|:-|-:|
+| Moritz Schneider | [orangeedge](https://www.orangeedge.de/) |
+| Michael Fischer| [Urban Data Plattform Hamburg](http://www.urbandataplatform.hamburg/) |
+|Corinna Steinmeyer<br> Nicole Herrmann <br> Marc Kleemann | [ISB AG](https://www.isb-ag.de/) |
+| Axel Lorenzen-Zabel | [Professur für Geodäsie und Geoinformatik](https://www.auf.uni-rostock.de/professuren/a-g/geodaesie-und-geoinformatik/) <br> [Universität Rostock](https://www.uni-rostock.de)|
